@@ -1,5 +1,6 @@
 ## 环境要求
-Eclipse、JDK 17、tomcat 9.0、mysql 8.0.28
+![JDK==17.0](https://img.shields.io/badge/JDK-==17.0-purple.svg) ![Tomcat==9.0](https://img.shields.io/badge/Tomcat-==9.0-yellow.svg)  ![mysql==8.0.28](https://img.shields.io/badge/mysql-==8.0.28-blue.svg)
+
 ## 实验基本功能要求
 ### 🎯1.注册及登录
 login and register functions
